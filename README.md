@@ -8,8 +8,7 @@ Virtual Machine On Google Colab
 + Can Install Operating Systems Like: Windows (Super Slow), Linux (Super Slow) Because I Don't Have KVM :) Can Install Android But I'm Not Bored It Works
 
 # Information
-
-+ VM: QEMU 
+ 
 + Ram: 8GB
 + Disk: HDD 1TB
 + CPU: AMD EPYC Processor (2017)
