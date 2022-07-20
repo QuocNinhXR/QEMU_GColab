@@ -19,5 +19,5 @@ Virtual Machine On Google Colab
 
 
 # Other
- + Version: 1.0
+ + Version: Beta 1.0
  + Repo GitHub [QuocNinh/QEMU_GColab](https://github.com/QuocNinhXR/QEMU_GColab)
