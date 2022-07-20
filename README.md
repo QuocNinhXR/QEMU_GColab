@@ -31,6 +31,7 @@ Virtual Machine On Google Colab
 
 ![image](https://github.com/QuocNinhXR/QEMU_GColab/blob/e1ce80ec2e7dbe3a96baf38cd386cb00d207654d/20220720_183448.jpg)
 
++ Select File: 'CDROM.iso' That You Renamed In Step 1
 + Enter [NgrokToken](https://dashboard.ngrok.com/get-started/your-authtoken) on NGROK_TOKEN
 + Press ▶️ and wait for the notification "Your IP VNC, Enjoy :)" get ip .Done :)
 
