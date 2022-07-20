@@ -17,11 +17,21 @@ Virtual Machine On Google Colab
 + Windows 7 (Super-Nano Lite)
    ```console  
 
-    https://archive.org/download/windows-7x-86-supernano-final/Windows7_super-nano_lite.iso
+    https://dl.malwarewatch.org/windows/Windows%207%20%28SuperNano%29.iso
     
     ```
++ Windows 10 (Tiny)
+   ```console
+    
+    https://dl.malwarewatch.org/windows/mods/Tiny%2010.iso
+   
+   ```
++ Windows XP (Lite)
+   ```console
 
+    http://www.mediafire.com/file/7d5pohnr37pcy57/XPLite.iso/file
 
+   ```
 
 # Other
  + Version: Beta 1.0
