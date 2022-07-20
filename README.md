@@ -44,5 +44,5 @@ Virtual Machine On Google Colab
 # Other
  + Version: Beta 1.0
  + Repo GitHub [QuocNinhXR/QEMU_GColab](https://github.com/QuocNinhXR/QEMU_GColab)
- + Comment : Have a nice day :)
-+ ---------------------------------END-----------------------------------
+ + Have a nice day :)
+ + -----------------------------END-----------------------------------
