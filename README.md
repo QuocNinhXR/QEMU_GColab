@@ -14,10 +14,15 @@ Virtual Machine On Google Colab
 + CPU: AMD EPYC Processor (2017)
 
 # CDROM
++ Windows 7 (Super-Nano Lite)
+   ```console  
 
-+ Comming Soon :) 
+    https://archive.org/download/windows-7x-86-supernano-final/Windows7_super-nano_lite.iso
+    
+    ```
+
 
 
 # Other
  + Version: Beta 1.0
- + Repo GitHub [QuocNinh/QEMU_GColab](https://github.com/QuocNinhXR/QEMU_GColab)
+ + Repo GitHub [QuocNinhXR/QEMU_GColab](https://github.com/QuocNinhXR/QEMU_GColab)
