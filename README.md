@@ -18,7 +18,7 @@ Virtual Machine On Google Colab
 + You Need [Ngrok Token](https://dashboard.ngrok.com/get-started/your-authtoken) Link download ISO install operating system (windows, linux) and [VNC Viewer](https://ww.realvnc.com/en/connect/download/viewer/)  if do not have link download ISO install operating system please scroll down to the ISO section
 + 1  Press [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)] 
 + 2  Import Ngrok Token and ISO link enter NGROK_TOKEN (Ngrok token) and CDROM (ISO Link)
-+ 3  Press ▶️ Done :)
++ 3  Press ▶️ and wait for the notification "Your IP VNC, Enjoy :)" get ip .Done :)
 
 
 # ISO
