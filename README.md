@@ -54,9 +54,11 @@ Virtual Machine On Google Colab
     http://www.mediafire.com/file/7d5pohnr37pcy57/XPLite.iso/file
 
    ```
+#Update
++ Add ISO File 'DriveAndAppWindows'
 
 # Other
- + Version: 1.0
+ + Version: 1.1
  + Repo GitHub [QuocNinhXR/QEMU_GColab](https://github.com/QuocNinhXR/QEMU_GColab)
  + Have a nice day :)
  + -----------------------------END-----------------------------------
