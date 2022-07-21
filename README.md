@@ -7,6 +7,8 @@ Virtual Machine On Google Colab
 
 + Can Install Operating Systems Like: Windows (Super Slow), Linux (Super Slow) Because I Don't Have KVM :) Can Install Android But I'm Not Bored It Works
 
+# Update 
+- Fix Error Google Colab
 # Information
  
 + Ram: 8GB
@@ -54,9 +56,6 @@ Virtual Machine On Google Colab
     http://www.mediafire.com/file/7d5pohnr37pcy57/XPLite.iso/file
 
    ```
-# Update
-+ Add ISO File 'DriveAndAppWindows'
-
 # Other
  + Version: 1.1
  + Repo GitHub [QuocNinhXR/QEMU_GColab](https://github.com/QuocNinhXR/QEMU_GColab)
