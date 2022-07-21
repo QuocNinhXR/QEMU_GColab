@@ -50,10 +50,10 @@ Virtual Machine On Google Colab
     https://dl.malwarewatch.org/windows/mods/Tiny%2010.iso
    
    ```
-+ Windows XP (Lite)
++ Windows XP (TinuXP)
    ```console
 
-    http://www.mediafire.com/file/7d5pohnr37pcy57/XPLite.iso/file
+    https://archive.org/download/win-lite/WinLite.iso
 
    ```
 # Other
