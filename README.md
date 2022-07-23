@@ -8,7 +8,7 @@ Virtual Machine On Google Colab
 + Can Install Operating Systems Like: Windows and Linux (Super Slow) Because I Don't Have KVM :) Can Install Android x86 But I'm Not Bored It Works
 
 # Update 
-- Fix Error Google Colab
+- Fix Error Google Colab When Running
 # Information
  
 + Ram: 8GB
